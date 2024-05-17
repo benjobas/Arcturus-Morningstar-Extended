@@ -341,6 +341,7 @@ public class ItemManager {
         this.interactionsList.add(new ItemInteraction("totem_leg", InteractionTotemLegs.class));
         this.interactionsList.add(new ItemInteraction("totem_head", InteractionTotemHead.class));
         this.interactionsList.add(new ItemInteraction("totem_planet", InteractionTotemPlanet.class));
+        this.interactionsList.add(new ItemInteraction("tile_walk_magic", InteractionTileWalkMagic.class));
     }
 
 
